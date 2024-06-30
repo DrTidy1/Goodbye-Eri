@@ -1,0 +1,17 @@
+{
+  "title": "<Goodbye, Eri>",
+  "description": "<stuff>",
+  "artist": "<Fujimotor>",
+  "author": "<fujimotor>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "<brother>",
+      "volume": "<1>",
+      "groups": {
+        "<bro>": "/proxy/api/imgur/chapter/<https://imgchest.com/p/m9yxg88xq4q>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
